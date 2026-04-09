@@ -1,0 +1,18 @@
+packages:
+  "framer-motion": "For smooth scroll and entry animations essential for a premium landing page"
+  "lucide-react": "For beautiful consistent iconography"
+  "react-hook-form": "For robust form state management in the contact modal"
+  "@hookform/resolvers": "For Zod schema validation integration"
+  "zod": "For contact form validation"
+
+images:
+  - path: "artifacts/landing/public/images/hero-abstract.png"
+    description: "A premium, subtle abstract background featuring soft glowing teal and green geometric shapes or mesh gradients on a clean white background. High-tech, B2B corporate consulting vibe."
+    aspect_ratio: "16:9"
+  - path: "artifacts/landing/public/images/process-bg.png"
+    description: "A subtle, elegant light gray and teal patterned background for a process flow section. Clean, professional, minimal."
+    aspect_ratio: "16:9"
+
+notes:
+  - This is a static landing page for marketing purposes.
+  - A mock contact mutation is included to demonstrate form interaction and state management without requiring a real backend.
